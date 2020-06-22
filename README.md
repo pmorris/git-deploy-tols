@@ -1,4 +1,4 @@
-# git-deploy-tols
+# git-deploy-tools
 
 This will allow automatic deployment of a repositiory using VCS webhooks and a server-side shell script
 
